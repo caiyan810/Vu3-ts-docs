@@ -6,7 +6,7 @@ hero:
   text: "Vue3 + TypeScript 学习文档"
   tagline: "学习是少数人的狂欢，亦是孤独者的游戏"
   image:
-    url: https://caoyan-810.oss-cn-nanjing.aliyuncs.com/logo.png?OSSAccessKeyId=LTAI5t8hvPqenc3EEGaConZr&Expires=1728725467&Signature=ELu2WJX4ebV7t%2FAbdAc8M3E59qo%3D
+    src: assets/logo.png
     alt: Chrom 浏览器
   actions:
     - theme: brand
