@@ -6,10 +6,10 @@
 无论是初学者还是有经验的开发者，这个站点都会帮助你掌握最新的 Vue 3 技术与 TypeScript 实践，从基础到实践，全方位提升你的前端开发能力。
 </p>
 
-![GitHub License](https://img.shields.io/github/license/caoyan-810/Vu3-ts-docs)
-![GitHub forks](https://img.shields.io/github/forks/caoyan-810/Vu3-ts-docs)
-![GitHub Stars](https://img.shields.io/github/stars/caoyan-810/Vu3-ts-docs)
-![Build Status](https://img.shields.io/github/workflow/status/caoyan-810/Vu3-ts-docs/CI)
+![GitHub License](https://img.shields.io/github/license/caiyan-810/Vu3-ts-docs)
+![GitHub forks](https://img.shields.io/github/forks/caiyan-810/Vu3-ts-docs)
+![GitHub Stars](https://img.shields.io/github/stars/caiyan-810/Vu3-ts-docs)
+![Build Status](https://img.shields.io/github/workflow/status/caiyan-810/Vu3-ts-docs/CI)
 ![NPM Version](https://img.shields.io/npm/v/your-package)
 ![NPM Downloads](https://img.shields.io/npm/dw/your-package)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)
