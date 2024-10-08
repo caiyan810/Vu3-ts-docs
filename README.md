@@ -6,12 +6,12 @@
 无论是初学者还是有经验的开发者，这个站点都会帮助你掌握最新的 Vue 3 技术与 TypeScript 实践，从基础到实践，全方位提升你的前端开发能力。
 </p>
 
-![GitHub License](https://img.shields.io/github/license/your-username/your-repo)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo)
-![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo)
-![Build Status](https://img.shields.io/github/workflow/status/your-username/your-repo/CI)
-![NPM Version](https://img.shields.io/npm/v/your-package)
-![NPM Downloads](https://img.shields.io/npm/dw/your-package)
+![GitHub License](https://img.shields.io/github/license/cyan/Vu3-ts-docs)
+![GitHub forks](https://img.shields.io/github/forks/cyan/Vu3-ts-docs)
+![GitHub Stars](https://img.shields.io/github/stars/cyan/Vu3-ts-docs)
+![Build Status](https://img.shields.io/github/workflow/status/cyan/Vu3-ts-docs/CI)
+![NPM Version](https://img.shields.io/npm/v/vue)
+![NPM Downloads](https://img.shields.io/npm/dw/vue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)
 
 ## Features
