@@ -14,10 +14,9 @@
 ![NPM Version](https://img.shields.io/npm/v/vue)
 ![NPM Downloads](https://img.shields.io/npm/dw/vue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)
-
-
-
-
-
-
 </p>
+
+## features
+ -从头开始，循序渐进地学习Vue 3 和 TypeScript.
+ -涵盖从组件到代码优化的实际开发经验。
+ -通过 VitePress 和 TypeScript ， 快速搭建高效，可维护的 Vue3 应用
