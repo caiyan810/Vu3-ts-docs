@@ -15,7 +15,7 @@ export default defineConfig({
             {text: "常见问题", link: "/faq/"},
         ],
         socialLinks: [
-            {icon: "github", link: "https://github.com/vuejs/vitepress"},
+            {icon: "github", link: "https://github.com/caiyan810/Vu3-ts-docs"},
         ],
         sidebar: {
             "/guide/":[
@@ -23,9 +23,11 @@ export default defineConfig({
                     text: "开始",
                     collapsible: true,
                     items: [
-                        {text: "介绍", link: "/guide"},
+                        {text: "介绍", link: "/guide/index"},
                         {text: "安装", link: "/guide/installation"},
                         {text: "基本概念", link: "/guide/concepts"},
+                        {text: "随机颜色显示器", link: "/guide/exmplain"},
+                        {text: "感悟", link: "/guide/think"}
                     ],
                 },
             ],

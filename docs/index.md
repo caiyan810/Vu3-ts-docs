@@ -6,7 +6,7 @@ hero:
   text: "Vue3 + TypeScript 学习文档"
   tagline: "学习是少数人的狂欢，亦是孤独者的游戏"
   image:
-    src: /assets/logo.png
+    src: assets/logo.png
     alt: Chrom 浏览器
   actions:
     - theme: brand
